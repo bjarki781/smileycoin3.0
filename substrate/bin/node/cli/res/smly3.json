@@ -86,7 +86,8 @@
               "grandpa": "5HdU4PvkNBnj73qvhxeKgw7rD2UJc3YpbisSTrTZV19dHzzp",
               "babe": "5FTqEQ6e2n3PEz8XPWGCsqUJzvvyZwzfzvFb7eWiDw1Wor6y",
               "im_online": "5FTqEQ6e2n3PEz8XPWGCsqUJzvvyZwzfzvFb7eWiDw1Wor6y",
-              "authority_discovery": "5FTqEQ6e2n3PEz8XPWGCsqUJzvvyZwzfzvFb7eWiDw1Wor6y"
+              "authority_discovery": "5FTqEQ6e2n3PEz8XPWGCsqUJzvvyZwzfzvFb7eWiDw1Wor6y",
+              "mixnet": "5FTqEQ6e2n3PEz8XPWGCsqUJzvvyZwzfzvFb7eWiDw1Wor6y"
             }
           ],
           [
@@ -96,7 +97,8 @@
               "grandpa": "5EBua5Q6ASggDBUDaiv9DVLHR2cJFLN1bfYQFPHHY4jqKjQD",
               "babe": "5E4iukGvdiRgVeWrS9q47JgvFQ7KpuuAn1NHsptfQk9WC7Ub",
               "im_online": "5E4iukGvdiRgVeWrS9q47JgvFQ7KpuuAn1NHsptfQk9WC7Ub",
-              "authority_discovery": "5E4iukGvdiRgVeWrS9q47JgvFQ7KpuuAn1NHsptfQk9WC7Ub"
+              "authority_discovery": "5E4iukGvdiRgVeWrS9q47JgvFQ7KpuuAn1NHsptfQk9WC7Ub",
+              "mixnet": "5E4iukGvdiRgVeWrS9q47JgvFQ7KpuuAn1NHsptfQk9WC7Ub"
             }
           ]
         ]
@@ -186,6 +188,9 @@
       },
       "safeMode": {
         "enteredUntil": null
+      },
+      "mixnet": {
+        "mixnodes": []
       }
     }
   }
