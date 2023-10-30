@@ -50,5 +50,5 @@ source pub_keys
 envsubst < template_smly3.json > smly3.json
 
 # to build the raw spec, if needed
-# cargo run --release -- build-spec --chain spec.json --raw --disable-default-bootnode > raw_spec.json
+../target/release/substrate-node build-spec --chain smly3.json --raw --disable-default-bootnode > raw_smly3.json
 

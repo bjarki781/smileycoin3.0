@@ -86,7 +86,8 @@
               "grandpa": "$grantw",
               "babe": "$babetw",
               "im_online": "$babetw",
-              "authority_discovery": "$babetw"
+              "authority_discovery": "$babetw",
+              "mixnet": "$babetw"
             }
           ],
           [
@@ -96,7 +97,8 @@
               "grandpa": "$gransveit",
               "babe": "$babesveit",
               "im_online": "$babesveit",
-              "authority_discovery": "$babesveit"
+              "authority_discovery": "$babesveit",
+              "mixnet": "$babesveit"
             }
           ]
         ]
@@ -186,6 +188,9 @@
       },
       "safeMode": {
         "enteredUntil": null
+      },
+      "mixnet": {
+        "mixnodes": []
       }
     }
   }
