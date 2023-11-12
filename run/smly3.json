@@ -40,27 +40,27 @@
           "balances": [
             [
               "5FTqEQ6e2n3PEz8XPWGCsqUJzvvyZwzfzvFb7eWiDw1Wor6y",
-              100000000000000000
+              2500000000000000
             ],
             [
               "5E4iukGvdiRgVeWrS9q47JgvFQ7KpuuAn1NHsptfQk9WC7Ub",
-              100000000000000000
+              2500000000000000
             ]          
         ]},
         "elections": {
           "members": [
             [
               "5FTqEQ6e2n3PEz8XPWGCsqUJzvvyZwzfzvFb7eWiDw1Wor6y",
-              100000000000000
+              1000000000000
             ],
             [
               "5E4iukGvdiRgVeWrS9q47JgvFQ7KpuuAn1NHsptfQk9WC7Ub",
-              100000000000000
+              1000000000000
             ]          
         ]},
         "nominationPools": {
           "minCreateBond": 100000000000,
-          "minJoinBond": 10000000000
+          "minJoinBond": 100000000000
         },
         "session": {
           "keys": [
@@ -102,13 +102,13 @@
             [
               "5FTqEQ6e2n3PEz8XPWGCsqUJzvvyZwzfzvFb7eWiDw1Wor6y",
               "5FTqEQ6e2n3PEz8XPWGCsqUJzvvyZwzfzvFb7eWiDw1Wor6y",
-              100000000000000,
+              1000000000000000,
               "Validator"
             ],
             [
               "5E4iukGvdiRgVeWrS9q47JgvFQ7KpuuAn1NHsptfQk9WC7Ub",
               "5E4iukGvdiRgVeWrS9q47JgvFQ7KpuuAn1NHsptfQk9WC7Ub",
-              100000000000000,
+              1000000000000000,
               "Validator"
             ]
           ],

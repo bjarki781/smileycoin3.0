@@ -40,27 +40,27 @@
           "balances": [
             [
               "$babetw",
-              100000000000000000
+              2500000000000000
             ],
             [
               "$babesveit",
-              100000000000000000
+              2500000000000000
             ]          
         ]},
         "elections": {
           "members": [
             [
               "$babetw",
-              100000000000000
+              1000000000000
             ],
             [
               "$babesveit",
-              100000000000000
+              1000000000000
             ]          
         ]},
         "nominationPools": {
           "minCreateBond": 100000000000,
-          "minJoinBond": 10000000000
+          "minJoinBond": 100000000000
         },
         "session": {
           "keys": [
@@ -102,13 +102,13 @@
             [
               "$babetw",
               "$babetw",
-              100000000000000,
+              1000000000000000,
               "Validator"
             ],
             [
               "$babesveit",
               "$babesveit",
-              100000000000000,
+              1000000000000000,
               "Validator"
             ]
           ],
