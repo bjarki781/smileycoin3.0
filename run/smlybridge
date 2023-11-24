@@ -8,7 +8,7 @@
 # if anything goes wrong we send the smiley we received back
 
 
-logdir=$home/.local/share/smlybridge
+logdir=$HOME/.local/share/smlybridge
 logfile=$logdir/exchange.log
 txidfile=$logdir/txids.log
 successesfile=$logdir/successes.log
