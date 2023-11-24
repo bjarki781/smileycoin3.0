@@ -52,3 +52,6 @@ envsubst < template_smly3.json > smly3.json
 # to build the raw spec, if needed
 ../target/release/substrate-node build-spec --chain smly3.json --raw --disable-default-bootnode > raw_smly3.json
 
+# then you might at some point want to move the newly generated raw spec to the ../substrate/bin/node/cli/res 
+# directory and recompile for the new spec to be included in the binary
+
